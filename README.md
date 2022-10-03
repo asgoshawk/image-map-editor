@@ -1,10 +1,31 @@
 # Image Map Editor
 
-## Instructions
+### Introduction
 
-This repository contains a simple project initialized with [Create React App](https://create-react-app.dev/) (CRA). Please use this as the foundation for developing an application that meets the design specifications and technical expectations below. The whole process should take no more than 3 to 6 hours.
+This is a homework for the interview. The project is initialized with [Create React App](https://create-react-app.dev/) (CRA) and coded in TypeScript.
 
-## Design Specifications
+---
+
+### Demo
+
+![Demo](https://i.imgur.com/rnrzzH1.gif)
+
+---
+
+### Features & Technologies
+
+- React
+- TypeScript
+- Styled-components
+- [React-rnd](https://github.com/bokuweb/react-rnd)
+
+---
+
+### Requirements
+
+The requirements are shown below:
+
+#### Design Specifications
 
 Figure 1:
 
@@ -24,7 +45,7 @@ Figure 2:
 
 Note: emulating the look and feel of the sample images is encouraged but the more important part is completing the functionality described above.
 
-## Technical Expectations
+#### Technical Expectations
 
 - Use TypeScript, React hooks, and functional components to develop the application.
 - CRA should not emit any linting or type errors when the application is complete, but you can disable errors where appropriate.
@@ -32,11 +53,9 @@ Note: emulating the look and feel of the sample images is encouraged but the mor
 - For CSS-in-JS we suggest (but do not require) using [Styled Components](https://styled-components.com/).
 - Clean and readable code style is encouraged!
 
-## Git Workflow
+#### Git Workflow
 
 - Please fork the `develop` branch to work on the application.
 - When the application is ready for review open a pull request to `develop` branch using the template provided.
 - Use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) style to name your branch, commit(s), and pull request.
 - Team members may leave some comments on your PR as code review; feel welcome to respond and interact there, or send a private message if you prefer.
-
-If you have any questions about the assignment or the process, you are welcome to send an email and ask. Thank you for taking the time to complete this application, and good luck!
