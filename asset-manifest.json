@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/image-map-editor/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/image-map-editor/static/js/main.262f9f65.chunk.js",
+    "main.js.map": "/image-map-editor/static/js/main.262f9f65.chunk.js.map",
+    "runtime-main.js": "/image-map-editor/static/js/runtime-main.648cb098.js",
+    "runtime-main.js.map": "/image-map-editor/static/js/runtime-main.648cb098.js.map",
+    "static/js/2.5b634cf0.chunk.js": "/image-map-editor/static/js/2.5b634cf0.chunk.js",
+    "static/js/2.5b634cf0.chunk.js.map": "/image-map-editor/static/js/2.5b634cf0.chunk.js.map",
+    "static/js/3.9748e3a0.chunk.js": "/image-map-editor/static/js/3.9748e3a0.chunk.js",
+    "static/js/3.9748e3a0.chunk.js.map": "/image-map-editor/static/js/3.9748e3a0.chunk.js.map",
+    "index.html": "/image-map-editor/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/image-map-editor/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.5b634cf0.chunk.js.LICENSE.txt": "/image-map-editor/static/js/2.5b634cf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.648cb098.js",
+    "static/js/2.5b634cf0.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.262f9f65.chunk.js"
+  ]
+}
